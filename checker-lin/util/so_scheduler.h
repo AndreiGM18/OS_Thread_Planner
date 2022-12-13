@@ -96,4 +96,3 @@ DECL_PREFIX void so_end(void);
 #endif
 
 #endif /* SO_SCHEDULER_H_ */
-
